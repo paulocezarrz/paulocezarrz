@@ -16,5 +16,5 @@ Tenho 15 anos, sou estudante do 1º ano de Desenvolvimento de Sistemas na ETEC D
 
 ### 📫 Como me encontrar
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-mendes-72a5143b3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **E-mail:** pauloo.cezarrz@gmail.com
